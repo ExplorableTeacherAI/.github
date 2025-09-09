@@ -1,1 +1,1 @@
-# .github
+# Teacher AI Project
